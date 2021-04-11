@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.app {
+  margin-left: 10px;
+}
+.todo {
+  font-weight: bold;
+}
+.done {
+  text-decoration-line: line-through;
+}
 
 .App-logo {
   height: 40vmin;
